@@ -1,6 +1,6 @@
 Hi there 👋
 ======
-I am [@MasterOfCubesAU](https://masterofcubesau.com). Owner and Developer of [MOCBOT](https://mocbot.masterofcubesau.com/). Software Engineering at Univeristy Of New South Wales, Sydney, Australia.
+I am [@MasterOfCubesAU](https://masterofcubesau.com). Owner and Developer of [MOCBOT](https://mocbot.masterofcubesau.com/). Full time Software Engineering student.
 
 I have experience in:
 
